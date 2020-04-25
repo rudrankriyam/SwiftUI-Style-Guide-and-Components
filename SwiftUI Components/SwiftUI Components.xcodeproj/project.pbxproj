@@ -15,6 +15,7 @@
 		0AAC1FB52454A27E00553F72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AAC1FB32454A27E00553F72 /* LaunchScreen.storyboard */; };
 		0AAC1FBD2454A33200553F72 /* BarButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC1FBC2454A33200553F72 /* BarButtonView.swift */; };
 		0AAC1FBF2454A3BE00553F72 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC1FBE2454A3BE00553F72 /* ModalView.swift */; };
+		0AAC1FC12454A7FB00553F72 /* ProgressRingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC1FC02454A7FB00553F72 /* ProgressRingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		0AAC1FB62454A27E00553F72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AAC1FBC2454A33200553F72 /* BarButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BarButtonView.swift; sourceTree = "<group>"; };
 		0AAC1FBE2454A3BE00553F72 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
+		0AAC1FC02454A7FB00553F72 /* ProgressRingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				0AAC1FA82454A27C00553F72 /* AppDelegate.swift */,
 				0AAC1FAA2454A27C00553F72 /* SceneDelegate.swift */,
 				0AAC1FAC2454A27C00553F72 /* ContentView.swift */,
+				0AAC1FC02454A7FB00553F72 /* ProgressRingView.swift */,
 				0AAC1FBE2454A3BE00553F72 /* ModalView.swift */,
 				0AAC1FAE2454A27E00553F72 /* Assets.xcassets */,
 				0AAC1FB32454A27E00553F72 /* LaunchScreen.storyboard */,
@@ -157,6 +160,7 @@
 				0AAC1FBD2454A33200553F72 /* BarButtonView.swift in Sources */,
 				0AAC1FAD2454A27C00553F72 /* ContentView.swift in Sources */,
 				0AAC1FBF2454A3BE00553F72 /* ModalView.swift in Sources */,
+				0AAC1FC12454A7FB00553F72 /* ProgressRingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
