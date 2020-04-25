@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct ProgressRingView: View {
+struct ScoreRingView: View {
     var currentScore: Double
     var leftColor: Color
     var rightColor: Color
@@ -19,6 +19,7 @@ struct ProgressRingView: View {
     var currentPoints: String {
         return "\(Int(currentScore * 100))"
     }
+
     var body: some View {
         VStack {
             Text("OVERALL SCORE")
@@ -67,8 +68,8 @@ struct CustomCircle: View {
     }
 }
 
-struct ProgressRingView_Previews: PreviewProvider {
+struct ScoreRingView_Previews: PreviewProvider {
     static var previews: some View {
-        ProgressRingView(currentScore: 0.8, leftColor: .red, rightColor: .purple)
+        ScoreRingView(currentScore: 0.8, leftColor: .red, rightColor: .purple)
     }
 }
