@@ -1,6 +1,6 @@
 # SwiftUI Style Guide and Components
 
-I respect everyone's way to writing and structuring their SwiftUI code, and here's mine. :]
+I respect everyone's way to writing and structuring their SwiftUI code, and here's mine. :] (Inspired by the well known [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide))
 
 You will also find few on the components from my apps.
 
